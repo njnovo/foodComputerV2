@@ -18,9 +18,9 @@ A raspberry pi was used to drive the environments. To operate the lights a relay
 #### Results
 In the first week, each lettuce (saplings at this point) measured 0.7 on the NDVI. This is because the plants have just germinated and have yet to adjust to their temperature and show any signs of stress.
 #### Bibliography
-1 .Mestre-Sanchís, Fernando, and María Luisa Feijóo-Bello. "Climate change and its marginalizing effect on agriculture." Ecological Economics, vol. 68, no. 3, 2009, pp. 896-904. https://doi.org/10.1016/j.ecolecon.2008.07.015.
+1. Mestre-Sanchís, Fernando, and María Luisa Feijóo-Bello. "Climate change and its marginalizing effect on agriculture." Ecological Economics, vol. 68, no. 3, 2009, pp. 896-904. https://doi.org/10.1016/j.ecolecon.2008.07.015.
 Outlines problems faced by farmers due to climate change, especially effects of rain. This can support my introduction as it can explain the need for controlled environment agriculture.
-2 .Ghazal, Sumaira, et al. "Computer vision in smart agriculture and precision farming: Techniques and applications." Artificial Intelligence in Agriculture, vol. 13, 2024, pp. 64-83. https://doi.org/10.1016/j.aiia.2024.06.004.
+2. Ghazal, Sumaira, et al. "Computer vision in smart agriculture and precision farming: Techniques and applications." Artificial Intelligence in Agriculture, vol. 13, 2024, pp. 64-83. https://doi.org/10.1016/j.aiia.2024.06.004.
 Outlines process for getting crop health indicators that are visible to cameras. This article provides formulas for calculating NDVI. It outlines the different spectrums required for different indexes, the process of image stitching, image analysis, and creating a solution.
 3. Tsitsimpelis, Ioannis, et al. "Development of a grow-cell test facility for research into sustainable controlled-environment agriculture." Biosystems Engineering, vol. 150, 2016, pp. 40-53. https://doi.org/10.1016/j.biosystemseng.2016.07.008.
 Outlines controlled environment agriculture. It examines different layouts and configurations to maximize space utilization and it examines the emissions of different light spectrums from grow lights and their placement.
@@ -28,9 +28,9 @@ Outlines controlled environment agriculture. It examines different layouts and c
 Examines the effects of temperature variation in the roots and in the surrounding air on the growth and health od lettuce plants. This doesn’t examine its effect on NDVI but it can be used as a template as to how the plant should generally respond.
 5. Williams, Jon. “Biomaker/22_DIY_plant_multispectral_imager: An Open-Source Arduino-Based Multispectral Camera.” GitHub, Biomaker Challenge Organisers, github.com/Biomaker/22_DIY_plant_multispectral_imager. Accessed 5 May 2025. 
 Uses low cost cameras with a filter to determine the NDVI. This is useful as I will use this framework to measure the NDVI of my plants.
-6.Nemali, Krishna. Detecting Crop Light Use from Normalized Difference Vegetation Index (NDVI). Purdue Extension, Feb. 2018. HO-282-W. https://www.extension.purdue.edu/extmedia/HO/HO-282-W%20.pdf.
+6. Nemali, Krishna. Detecting Crop Light Use from Normalized Difference Vegetation Index (NDVI). Purdue Extension, Feb. 2018. HO-282-W. https://www.extension.purdue.edu/extmedia/HO/HO-282-W%20.pdf.
 Examines the use of NDVI to detect the usage of light by plants then adjust light intensity to save money. This is very useful as it is very similar to my project, except it examines light usage instead of temperature.
-7.Lorditch, Emilie. “Ask the Expert: Could Controlled Environment Agriculture Be the Future of Farming and Solve Food Insecurity?” MSUToday, Michigan State University, 2 June 2023, msutoday.msu.edu/news/2023/ask-the-expert-could-controlled-environment-agriculture-be-the-future-of-farming?collection=79022467-cc5d-4b0d-9d69-8f773df52178. 
+7. Lorditch, Emilie. “Ask the Expert: Could Controlled Environment Agriculture Be the Future of Farming and Solve Food Insecurity?” MSUToday, Michigan State University, 2 June 2023, msutoday.msu.edu/news/2023/ask-the-expert-could-controlled-environment-agriculture-be-the-future-of-farming?collection=79022467-cc5d-4b0d-9d69-8f773df52178. 
 Outlines problems faced by farmers using CEA. Especially emphasises that energy is lost heating and cooling greenhouses/artificial environments.
 8. Aparicio, N., D. Villegas, J. Casadesus, J.L. Araus, and C. Royo. 2000. Spectral vegetation indices as nondestructive tools for determining durum wheat yield. Agron. J. 92: 83-91.
 Examines different remote sensing technologies to determine the health of wheat crops. It examines NDVI in specific.
